@@ -12,6 +12,11 @@ namespace Hola_repo
         {
             Console.WriteLine("hola mundo");
 
+
+            Console.WriteLine("hola amigos");
+
+
+            Console.WriteLine("como estan");
             Console.ReadKey();
         }
     }
